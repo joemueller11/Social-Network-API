@@ -1,7 +1,7 @@
 # Social-Network-API
 
 ## Description
-
+API for my social network that uses a NoSQL database
 
 
 ## Table of Contents
@@ -11,11 +11,13 @@
 - [License](#license)
 
 ## Installation
-
-
+Install Node.js for dependencies.
+Express.js
+Mongoose
+Insomnia
 
 ## Usage
-
+npm start in terminal to run server.js
 
 Video link: 
 
@@ -46,7 +48,8 @@ SOFTWARE.
 Follow best practice for contribtuion guidelines.
 
 ## Tests
-
+API routes being tested in Insomnia.
+GET, POST, PUT, DELETE for users, thoughts, user's friend list and reactions to thoughts.
 
 ## Questions 
 Reach out to:
