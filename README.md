@@ -11,9 +11,9 @@ API for my social network that uses a NoSQL database
 - [License](#license)
 
 ## Installation
-Install Node.js for dependencies.
-Express.js
-Mongoose
+Install Node.js for dependencies. <br/>
+Express.js<br/>
+Mongoose<br/>
 Insomnia
 
 ## Usage
@@ -48,11 +48,10 @@ SOFTWARE.
 Follow best practice for contribtuion guidelines.
 
 ## Tests
-API routes being tested in Insomnia.
+API routes being tested in Insomnia.<br/>
 GET, POST, PUT, DELETE for users, thoughts, user's friend list and reactions to thoughts.
 
 ## Questions 
-Reach out to:
-https://github.com/joemueller11
-or Email:
-joseph.m.email@gmail.com  # Social-Network-API
+Reach out to:https://github.com/joemueller11 <br/>
+or <br/>
+Email:joseph.m.email@gmail.com  # Social-Network-API
