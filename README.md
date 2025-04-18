@@ -18,8 +18,7 @@ Insomnia
 
 ## Usage
 npm start in terminal to run server.js
-
-Video link: 
+Video link: https://drive.google.com/file/d/1r6TkzGKaYVpAUXxkVyBvEtG62Wwe9T2z/view?usp=drive_link<br/>
 
 ## License
 MIT License
