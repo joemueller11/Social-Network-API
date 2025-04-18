@@ -1,0 +1,36 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+# Runtime data
+pids
+*.pid
+*.seed
+*.dat
+# Directory for compiled files
+dist
+build
+out
+# node_modules
+node_modules
+# Editor and IDE files
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+# System files
+.DS_Store
+Thumbs.db
+# Temporary files
+tmp
+# Environment variables file
+.env
+# Ignore coverage reports
+coverage
